@@ -1,16 +1,33 @@
-## Hi there 👋
+# Francisco David Hernández Alayón
+Ingeniero Informático recién graduado, apasionado por la tecnología, el desarrollo de software y la resolución de problemas. Siempre aprendiendo y mejorando en Ingeniería Informática.
 
-<!--
-**francisco-david-hernandez-alayon/francisco-david-hernandez-alayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Proyectos Destacados
 
-Here are some ideas to get you started:
+### Juego Web Full-Stack
+Juego web de aventuras: elige caminos, lucha contra enemigos, sobrevive y recoge ítems.  
+[Repositorio](https://github.com/francisco-david-hernandez-alayon/full-stack-game)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?user=francisco-david-hernandez-alayon&repo=full-stack-game&theme=light&cache_seconds=0)](https://github.com/francisco-david-hernandez-alayon/full-stack-game)
+
+
+### Mapa Sísmico Python
+Visualización de datos sísmicos en Python usando earthquake Api y siguiendo MVC.  
+[Repositorio](https://github.com/francisco-david-hernandez-alayon/Code-Practice/tree/main/python/map_mvc_project)  
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?user=francisco-david-hernandez-alayon&repo=Code-Practice&theme=light&cache_seconds=0)](https://github.com/francisco-david-hernandez-alayon/Code-Practice/tree/main/python/map_mvc_project)
+
+
+### TFG
+Trabajo de fin de grado desarrollado en Ingeniería Informática.  
+[Repositorio](https://github.com/francisco-david-hernandez-alayon/TFG)  
+
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?user=francisco-david-hernandez-alayon&repo=TFG&theme=light&cache_seconds=0)](https://github.com/francisco-david-hernandez-alayon/TFG)
+
+
+
+## 📊 Estadísticas
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=francisco-david-hernandez-alayon&layout=donut&theme=light)](https://github.com/francisco-david-hernandez-alayon)  
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?user=francisco-david-hernandez-alayon&show_icons=true&theme=light)](https://github.com/francisco-david-hernandez-alayon)  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=francisco-david-hernandez-alayon&theme=light)](https://github.com/francisco-david-hernandez-alayon)
